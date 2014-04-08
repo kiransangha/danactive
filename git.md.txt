@@ -1,0 +1,6 @@
+Associating text editors with Git
+git config --global core.editor "'C:\Program Files\Sublime Text 2\sublime_text.exe' -w"
+https://help.github.com/articles/associating-text-editors-with-git
+
+Change local commit message
+git rebase -i HEAD~3
